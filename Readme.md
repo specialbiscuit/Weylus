@@ -393,3 +393,5 @@ are connected via the Internet Protocol and that doesn't necessarily imply WiFi.
 [![Packaging status](
 https://repology.org/badge/vertical-allrepos/weylus.svg
 )](https://repology.org/project/weylus/versions)
+
+![Alt](https://repobeats.axiom.co/api/embed/078e4e002fb1584db382d2639be6f53f0776df6d.svg "Repobeats analytics image")
